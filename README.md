@@ -1,2 +1,4 @@
-# conex-o_dao
-conexão com sql
+# conexão com SQL
+
+NOME: Vinícius Martines Alcantarilla
+RA: 2171392421009
